@@ -1,0 +1,7 @@
+testNo1	30.47
+testNo2	24.64
+testNo3	40.9567
+testNo4	88
+testNo5	79.09
+testNo7	92.6933
+testNo8	21.89

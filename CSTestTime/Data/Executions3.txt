@@ -1,0 +1,23 @@
+testNo1	23.1
+testNo2 26.2
+testNo3 30.7
+testNo4	80.0
+testNo5 68.7
+testNo7	80.8
+testNo8 19.7
+
+testNo1	25
+testNo2 22
+testNo3 39
+testNo4	85
+testNo5	75
+testNo7	89
+testNo8	12
+
+testNo1	35
+testNo2 19
+testNo3 42
+testNo4	75
+testNo5	72
+testNo7	83
+testNo8	28

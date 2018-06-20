@@ -1,0 +1,16 @@
+﻿Build started 2018-06-18 00:57:09.
+     1>Project "F:\Programowanie\liby\gtest\googletest\googletest\msvc\2010\gtest.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I.. /I..\include /I..\..\include /I..\.. /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D _VARIADIC_MAX=10 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\temp\gtest\\" /Fd"C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\temp\gtest\gtest.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\src\gtest-all.cc"
+         gtest-all.cc
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\..\include /I..\.. /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D _VARIADIC_MAX=10 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\temp\gtest\\" /Fd"C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\temp\gtest\gtest.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\gtest_main.cc
+         gtest_main.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\gtest.lib" /NOLOGO "C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\temp\gtest\gtest-all.obj"
+         "C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\temp\gtest\gtest_main.obj"
+         gtest.vcxproj -> C:\Users\Piotrek\documents\visual studio 2015\Projects\CSTestTime\CSTestTime\Win32-Release\gtest.lib
+     1>Done Building Project "F:\Programowanie\liby\gtest\googletest\googletest\msvc\2010\gtest.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.46
